@@ -6,3 +6,5 @@
   - 手指弹起平滑处理Scroller
   - 事件拦截，不捕获子view的垂直滚动
   - 控件重新Layout的时候，保持在原来位置
+
+[侧滑FrameLayout的坑](http://www.jianshu.com/p/3572b1d8e45b)
